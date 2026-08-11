@@ -1,0 +1,81 @@
+.body{
+    font-family: Arial, sans-serif;
+}
+.google{
+    background-image: url("O:\Ciclo 2026\Laboratorio 3\íconos\Google-Logo.png");
+    height: 200px;
+    width: 200px;
+}
+.div1{
+    text-align: center;
+}
+.button-img{
+    padding: 20px;
+    border: solid;
+}
+.but-buscar{
+    text-align: center;
+    text-justify: center;
+    padding: 10px;
+    border: none;
+    margin: 10px;
+}
+.but-suerte{
+    text-align: center;
+    text-justify: center;
+    padding: 10px;
+    border: none;
+    margin: 10px;
+}
+.but-buscar:hover{
+    transform: scale(00.7s)
+}
+.but-suerte:hover{
+    transform: scale(00.7s)
+}
+.p1{
+    text-align: center;
+}
+.strong{
+    color: blue;
+}
+.h3{
+    color: #1F1F1F;
+    text-decoration: none;
+    border: floralwhite;
+}
+.div3{
+    justify-content: right;
+}
+.img2{
+    background-image: url("O:\Ciclo 2026\Laboratorio 3\íconos\menu.png");
+    height: 30px;
+    width: 30px;
+}
+.but-inicio{
+    border-radius: 0%;
+    background-color: #1B62D3;
+    color:  #F3F5F6 ;
+    cursor: pointer;
+    transition: 0.7s;
+}
+.table1{
+    text-align: right;
+    justify-content: right;
+}
+.div2{
+    text-align: center;
+}
+.foot{
+    display: flex;
+    border:  #F3F5F6 ;
+}
+.tr1{
+    text-align: left;
+}
+.tr2{
+    text-align: right;
+}
+.div1{
+    text-align: center;
+}

@@ -1,0 +1,49 @@
+.body2{
+    font-family: 'Montserrat', san-s serif;
+    background-color:darkcyan;
+}
+.span{
+    padding: 15px, 25px;
+    border: 15px, 25px, white;
+    margin: 50px;
+    text-align: right;
+    background-color: white;
+    color: black;
+}
+.div1{
+    background-image: url("https://www.campusvirtual.com.gt/images/Logo.png");
+    height: 100px;
+    width: 100px;
+    text-align: right;
+}
+.div2{
+    color:  #023859;
+    text-align: right;
+    font-size: 20px;
+}
+
+
+.descarg{
+    color: rgb(255 255 255);
+}
+.fot2{
+    text-align: center;
+}
+.play{
+    border-radius: 0%;
+    width: 150px;
+    height: 100px;
+}
+.store{
+    border-radius: 0%;
+    width: 350px;
+    height: 300px;
+}
+.gallery{
+    border-radius: 0%;
+    width: 150px;
+    height: 100px;
+}
+.div-cel{
+    text-align: left;
+}
